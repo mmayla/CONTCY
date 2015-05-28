@@ -1,5 +1,5 @@
-# Contcy
+# CONTCY
 
-Contcy is a web search engine
+CONTCY is a web search engine
 
-This is the front-end of Contcy
+This is the front-end of CONTCY
